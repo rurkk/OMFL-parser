@@ -1,0 +1,2163 @@
+Start testing: Dec 29 22:57 RTZ 2 (ceia)
+----------------------------------------------------------
+1/80 Testing: FormatTestSuite.KeyRedifenitionTest
+1/80 Test: FormatTestSuite.KeyRedifenitionTest
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=FormatTestSuite.KeyRedifenitionTest" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"FormatTestSuite.KeyRedifenitionTest" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FormatTestSuite.KeyRedifenitionTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FormatTestSuite
+[ RUN      ] FormatTestSuite.KeyRedifenitionTest
+[       OK ] FormatTestSuite.KeyRedifenitionTest (0 ms)
+[----------] 1 test from FormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"FormatTestSuite.KeyRedifenitionTest" end time: Dec 29 22:57 RTZ 2 (ceia)
+"FormatTestSuite.KeyRedifenitionTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/80 Testing: ParserTestSuite.EmptyTest
+2/80 Test: ParserTestSuite.EmptyTest
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=ParserTestSuite.EmptyTest" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"ParserTestSuite.EmptyTest" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ParserTestSuite.EmptyTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ParserTestSuite
+[ RUN      ] ParserTestSuite.EmptyTest
+[       OK ] ParserTestSuite.EmptyTest (0 ms)
+[----------] 1 test from ParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.28 sec
+----------------------------------------------------------
+Test Passed.
+"ParserTestSuite.EmptyTest" end time: Dec 29 22:57 RTZ 2 (ceia)
+"ParserTestSuite.EmptyTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/80 Testing: ParserTestSuite.IntTest
+3/80 Test: ParserTestSuite.IntTest
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=ParserTestSuite.IntTest" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"ParserTestSuite.IntTest" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ParserTestSuite.IntTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ParserTestSuite
+[ RUN      ] ParserTestSuite.IntTest
+[       OK ] ParserTestSuite.IntTest (0 ms)
+[----------] 1 test from ParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.16 sec
+----------------------------------------------------------
+Test Passed.
+"ParserTestSuite.IntTest" end time: Dec 29 22:57 RTZ 2 (ceia)
+"ParserTestSuite.IntTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/80 Testing: ParserTestSuite.InvalidIntTest
+4/80 Test: ParserTestSuite.InvalidIntTest
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=ParserTestSuite.InvalidIntTest" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"ParserTestSuite.InvalidIntTest" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ParserTestSuite.InvalidIntTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ParserTestSuite
+[ RUN      ] ParserTestSuite.InvalidIntTest
+[       OK ] ParserTestSuite.InvalidIntTest (0 ms)
+[----------] 1 test from ParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.16 sec
+----------------------------------------------------------
+Test Passed.
+"ParserTestSuite.InvalidIntTest" end time: Dec 29 22:57 RTZ 2 (ceia)
+"ParserTestSuite.InvalidIntTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/80 Testing: ParserTestSuite.FloatTest
+5/80 Test: ParserTestSuite.FloatTest
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=ParserTestSuite.FloatTest" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"ParserTestSuite.FloatTest" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ParserTestSuite.FloatTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ParserTestSuite
+[ RUN      ] ParserTestSuite.FloatTest
+[       OK ] ParserTestSuite.FloatTest (0 ms)
+[----------] 1 test from ParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.53 sec
+----------------------------------------------------------
+Test Passed.
+"ParserTestSuite.FloatTest" end time: Dec 29 22:57 RTZ 2 (ceia)
+"ParserTestSuite.FloatTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/80 Testing: ParserTestSuite.InvalidFloatTest
+6/80 Test: ParserTestSuite.InvalidFloatTest
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=ParserTestSuite.InvalidFloatTest" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"ParserTestSuite.InvalidFloatTest" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ParserTestSuite.InvalidFloatTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ParserTestSuite
+[ RUN      ] ParserTestSuite.InvalidFloatTest
+[       OK ] ParserTestSuite.InvalidFloatTest (0 ms)
+[----------] 1 test from ParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"ParserTestSuite.InvalidFloatTest" end time: Dec 29 22:57 RTZ 2 (ceia)
+"ParserTestSuite.InvalidFloatTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/80 Testing: ParserTestSuite.StringTest
+7/80 Test: ParserTestSuite.StringTest
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=ParserTestSuite.StringTest" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"ParserTestSuite.StringTest" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ParserTestSuite.StringTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ParserTestSuite
+[ RUN      ] ParserTestSuite.StringTest
+[       OK ] ParserTestSuite.StringTest (0 ms)
+[----------] 1 test from ParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"ParserTestSuite.StringTest" end time: Dec 29 22:57 RTZ 2 (ceia)
+"ParserTestSuite.StringTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/80 Testing: ParserTestSuite.InvalidStringTest
+8/80 Test: ParserTestSuite.InvalidStringTest
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=ParserTestSuite.InvalidStringTest" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"ParserTestSuite.InvalidStringTest" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ParserTestSuite.InvalidStringTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ParserTestSuite
+[ RUN      ] ParserTestSuite.InvalidStringTest
+[       OK ] ParserTestSuite.InvalidStringTest (0 ms)
+[----------] 1 test from ParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Passed.
+"ParserTestSuite.InvalidStringTest" end time: Dec 29 22:57 RTZ 2 (ceia)
+"ParserTestSuite.InvalidStringTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/80 Testing: ParserTestSuite.ArrayTest
+9/80 Test: ParserTestSuite.ArrayTest
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=ParserTestSuite.ArrayTest" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"ParserTestSuite.ArrayTest" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ParserTestSuite.ArrayTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ParserTestSuite
+[ RUN      ] ParserTestSuite.ArrayTest
+[       OK ] ParserTestSuite.ArrayTest (0 ms)
+[----------] 1 test from ParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.16 sec
+----------------------------------------------------------
+Test Passed.
+"ParserTestSuite.ArrayTest" end time: Dec 29 22:57 RTZ 2 (ceia)
+"ParserTestSuite.ArrayTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/80 Testing: ParserTestSuite.DiffTypesArrayTest
+10/80 Test: ParserTestSuite.DiffTypesArrayTest
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=ParserTestSuite.DiffTypesArrayTest" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"ParserTestSuite.DiffTypesArrayTest" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ParserTestSuite.DiffTypesArrayTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ParserTestSuite
+[ RUN      ] ParserTestSuite.DiffTypesArrayTest
+[       OK ] ParserTestSuite.DiffTypesArrayTest (0 ms)
+[----------] 1 test from ParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"ParserTestSuite.DiffTypesArrayTest" end time: Dec 29 22:57 RTZ 2 (ceia)
+"ParserTestSuite.DiffTypesArrayTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/80 Testing: ParserTestSuite.CommentsTest
+11/80 Test: ParserTestSuite.CommentsTest
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=ParserTestSuite.CommentsTest" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"ParserTestSuite.CommentsTest" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ParserTestSuite.CommentsTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ParserTestSuite
+[ RUN      ] ParserTestSuite.CommentsTest
+[       OK ] ParserTestSuite.CommentsTest (0 ms)
+[----------] 1 test from ParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"ParserTestSuite.CommentsTest" end time: Dec 29 22:57 RTZ 2 (ceia)
+"ParserTestSuite.CommentsTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/80 Testing: ParserTestSuite.SectionTest
+12/80 Test: ParserTestSuite.SectionTest
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=ParserTestSuite.SectionTest" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"ParserTestSuite.SectionTest" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ParserTestSuite.SectionTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ParserTestSuite
+[ RUN      ] ParserTestSuite.SectionTest
+[       OK ] ParserTestSuite.SectionTest (0 ms)
+[----------] 1 test from ParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"ParserTestSuite.SectionTest" end time: Dec 29 22:57 RTZ 2 (ceia)
+"ParserTestSuite.SectionTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/80 Testing: ParserTestSuite.MultiSectionTest
+13/80 Test: ParserTestSuite.MultiSectionTest
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=ParserTestSuite.MultiSectionTest" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"ParserTestSuite.MultiSectionTest" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ParserTestSuite.MultiSectionTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ParserTestSuite
+[ RUN      ] ParserTestSuite.MultiSectionTest
+[       OK ] ParserTestSuite.MultiSectionTest (0 ms)
+[----------] 1 test from ParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"ParserTestSuite.MultiSectionTest" end time: Dec 29 22:57 RTZ 2 (ceia)
+"ParserTestSuite.MultiSectionTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/80 Testing: ParserTestSuite.GetSectionTest
+14/80 Test: ParserTestSuite.GetSectionTest
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=ParserTestSuite.GetSectionTest" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"ParserTestSuite.GetSectionTest" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ParserTestSuite.GetSectionTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ParserTestSuite
+[ RUN      ] ParserTestSuite.GetSectionTest
+[       OK ] ParserTestSuite.GetSectionTest (0 ms)
+[----------] 1 test from ParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"ParserTestSuite.GetSectionTest" end time: Dec 29 22:57 RTZ 2 (ceia)
+"ParserTestSuite.GetSectionTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/80 Testing: KeyValidation/ValidFormatTestSuite.ValidTest/"key = \"value\""
+15/80 Test: KeyValidation/ValidFormatTestSuite.ValidTest/"key = \"value\""
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=KeyValidation/ValidFormatTestSuite.ValidTest/0" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"KeyValidation/ValidFormatTestSuite.ValidTest/"key = \"value\""" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = KeyValidation/ValidFormatTestSuite.ValidTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from KeyValidation/ValidFormatTestSuite
+[ RUN      ] KeyValidation/ValidFormatTestSuite.ValidTest/0
+[       OK ] KeyValidation/ValidFormatTestSuite.ValidTest/0 (0 ms)
+[----------] 1 test from KeyValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.19 sec
+----------------------------------------------------------
+Test Passed.
+"KeyValidation/ValidFormatTestSuite.ValidTest/"key = \"value\""" end time: Dec 29 22:57 RTZ 2 (ceia)
+"KeyValidation/ValidFormatTestSuite.ValidTest/"key = \"value\""" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/80 Testing: KeyValidation/ValidFormatTestSuite.ValidTest/" key      =  \"value\"   "
+16/80 Test: KeyValidation/ValidFormatTestSuite.ValidTest/" key      =  \"value\"   "
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=KeyValidation/ValidFormatTestSuite.ValidTest/1" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"KeyValidation/ValidFormatTestSuite.ValidTest/" key      =  \"value\"   "" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = KeyValidation/ValidFormatTestSuite.ValidTest/1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from KeyValidation/ValidFormatTestSuite
+[ RUN      ] KeyValidation/ValidFormatTestSuite.ValidTest/1
+[       OK ] KeyValidation/ValidFormatTestSuite.ValidTest/1 (0 ms)
+[----------] 1 test from KeyValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   1.92 sec
+----------------------------------------------------------
+Test Passed.
+"KeyValidation/ValidFormatTestSuite.ValidTest/" key      =  \"value\"   "" end time: Dec 29 22:57 RTZ 2 (ceia)
+"KeyValidation/ValidFormatTestSuite.ValidTest/" key      =  \"value\"   "" time elapsed: 00:00:01
+----------------------------------------------------------
+
+17/80 Testing: KeyValidation/ValidFormatTestSuite.ValidTest/" key=  \"value\""
+17/80 Test: KeyValidation/ValidFormatTestSuite.ValidTest/" key=  \"value\""
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=KeyValidation/ValidFormatTestSuite.ValidTest/2" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"KeyValidation/ValidFormatTestSuite.ValidTest/" key=  \"value\""" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = KeyValidation/ValidFormatTestSuite.ValidTest/2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from KeyValidation/ValidFormatTestSuite
+[ RUN      ] KeyValidation/ValidFormatTestSuite.ValidTest/2
+[       OK ] KeyValidation/ValidFormatTestSuite.ValidTest/2 (0 ms)
+[----------] 1 test from KeyValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   1.38 sec
+----------------------------------------------------------
+Test Passed.
+"KeyValidation/ValidFormatTestSuite.ValidTest/" key=  \"value\""" end time: Dec 29 22:57 RTZ 2 (ceia)
+"KeyValidation/ValidFormatTestSuite.ValidTest/" key=  \"value\""" time elapsed: 00:00:01
+----------------------------------------------------------
+
+18/80 Testing: KeyValidation/ValidFormatTestSuite.ValidTest/" key123 =  \"value\""
+18/80 Test: KeyValidation/ValidFormatTestSuite.ValidTest/" key123 =  \"value\""
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=KeyValidation/ValidFormatTestSuite.ValidTest/3" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"KeyValidation/ValidFormatTestSuite.ValidTest/" key123 =  \"value\""" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = KeyValidation/ValidFormatTestSuite.ValidTest/3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from KeyValidation/ValidFormatTestSuite
+[ RUN      ] KeyValidation/ValidFormatTestSuite.ValidTest/3
+[       OK ] KeyValidation/ValidFormatTestSuite.ValidTest/3 (0 ms)
+[----------] 1 test from KeyValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   1.26 sec
+----------------------------------------------------------
+Test Passed.
+"KeyValidation/ValidFormatTestSuite.ValidTest/" key123 =  \"value\""" end time: Dec 29 22:57 RTZ 2 (ceia)
+"KeyValidation/ValidFormatTestSuite.ValidTest/" key123 =  \"value\""" time elapsed: 00:00:01
+----------------------------------------------------------
+
+19/80 Testing: KeyValidation/ValidFormatTestSuite.ValidTest/" key_1-23-abcd =  \"value\""
+19/80 Test: KeyValidation/ValidFormatTestSuite.ValidTest/" key_1-23-abcd =  \"value\""
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=KeyValidation/ValidFormatTestSuite.ValidTest/4" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"KeyValidation/ValidFormatTestSuite.ValidTest/" key_1-23-abcd =  \"value\""" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = KeyValidation/ValidFormatTestSuite.ValidTest/4
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from KeyValidation/ValidFormatTestSuite
+[ RUN      ] KeyValidation/ValidFormatTestSuite.ValidTest/4
+[       OK ] KeyValidation/ValidFormatTestSuite.ValidTest/4 (0 ms)
+[----------] 1 test from KeyValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.25 sec
+----------------------------------------------------------
+Test Passed.
+"KeyValidation/ValidFormatTestSuite.ValidTest/" key_1-23-abcd =  \"value\""" end time: Dec 29 22:57 RTZ 2 (ceia)
+"KeyValidation/ValidFormatTestSuite.ValidTest/" key_1-23-abcd =  \"value\""" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/80 Testing: KeyValidation/ValidFormatTestSuite.ValidTest/" 23key_ =  \"value\""
+20/80 Test: KeyValidation/ValidFormatTestSuite.ValidTest/" 23key_ =  \"value\""
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=KeyValidation/ValidFormatTestSuite.ValidTest/5" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"KeyValidation/ValidFormatTestSuite.ValidTest/" 23key_ =  \"value\""" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = KeyValidation/ValidFormatTestSuite.ValidTest/5
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from KeyValidation/ValidFormatTestSuite
+[ RUN      ] KeyValidation/ValidFormatTestSuite.ValidTest/5
+[       OK ] KeyValidation/ValidFormatTestSuite.ValidTest/5 (0 ms)
+[----------] 1 test from KeyValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"KeyValidation/ValidFormatTestSuite.ValidTest/" 23key_ =  \"value\""" end time: Dec 29 22:57 RTZ 2 (ceia)
+"KeyValidation/ValidFormatTestSuite.ValidTest/" 23key_ =  \"value\""" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/80 Testing: ValueValidation/ValidFormatTestSuite.ValidTest/"key = \"value\""
+21/80 Test: ValueValidation/ValidFormatTestSuite.ValidTest/"key = \"value\""
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=ValueValidation/ValidFormatTestSuite.ValidTest/0" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"ValueValidation/ValidFormatTestSuite.ValidTest/"key = \"value\""" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ValueValidation/ValidFormatTestSuite.ValidTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ValueValidation/ValidFormatTestSuite
+[ RUN      ] ValueValidation/ValidFormatTestSuite.ValidTest/0
+[       OK ] ValueValidation/ValidFormatTestSuite.ValidTest/0 (0 ms)
+[----------] 1 test from ValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"ValueValidation/ValidFormatTestSuite.ValidTest/"key = \"value\""" end time: Dec 29 22:57 RTZ 2 (ceia)
+"ValueValidation/ValidFormatTestSuite.ValidTest/"key = \"value\""" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/80 Testing: IntValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 2"
+22/80 Test: IntValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 2"
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=IntValueValidation/ValidFormatTestSuite.ValidTest/0" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"IntValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 2"" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = IntValueValidation/ValidFormatTestSuite.ValidTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IntValueValidation/ValidFormatTestSuite
+[ RUN      ] IntValueValidation/ValidFormatTestSuite.ValidTest/0
+[       OK ] IntValueValidation/ValidFormatTestSuite.ValidTest/0 (0 ms)
+[----------] 1 test from IntValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"IntValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 2"" end time: Dec 29 22:57 RTZ 2 (ceia)
+"IntValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 2"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/80 Testing: IntValueValidation/ValidFormatTestSuite.ValidTest/"key2 = -22"
+23/80 Test: IntValueValidation/ValidFormatTestSuite.ValidTest/"key2 = -22"
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=IntValueValidation/ValidFormatTestSuite.ValidTest/1" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"IntValueValidation/ValidFormatTestSuite.ValidTest/"key2 = -22"" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = IntValueValidation/ValidFormatTestSuite.ValidTest/1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IntValueValidation/ValidFormatTestSuite
+[ RUN      ] IntValueValidation/ValidFormatTestSuite.ValidTest/1
+[       OK ] IntValueValidation/ValidFormatTestSuite.ValidTest/1 (0 ms)
+[----------] 1 test from IntValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"IntValueValidation/ValidFormatTestSuite.ValidTest/"key2 = -22"" end time: Dec 29 22:57 RTZ 2 (ceia)
+"IntValueValidation/ValidFormatTestSuite.ValidTest/"key2 = -22"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/80 Testing: IntValueValidation/ValidFormatTestSuite.ValidTest/"key3 = +48"
+24/80 Test: IntValueValidation/ValidFormatTestSuite.ValidTest/"key3 = +48"
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=IntValueValidation/ValidFormatTestSuite.ValidTest/2" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"IntValueValidation/ValidFormatTestSuite.ValidTest/"key3 = +48"" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = IntValueValidation/ValidFormatTestSuite.ValidTest/2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IntValueValidation/ValidFormatTestSuite
+[ RUN      ] IntValueValidation/ValidFormatTestSuite.ValidTest/2
+[       OK ] IntValueValidation/ValidFormatTestSuite.ValidTest/2 (0 ms)
+[----------] 1 test from IntValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"IntValueValidation/ValidFormatTestSuite.ValidTest/"key3 = +48"" end time: Dec 29 22:57 RTZ 2 (ceia)
+"IntValueValidation/ValidFormatTestSuite.ValidTest/"key3 = +48"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/80 Testing: FloatValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 3.14"
+25/80 Test: FloatValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 3.14"
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=FloatValueValidation/ValidFormatTestSuite.ValidTest/0" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"FloatValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 3.14"" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FloatValueValidation/ValidFormatTestSuite.ValidTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FloatValueValidation/ValidFormatTestSuite
+[ RUN      ] FloatValueValidation/ValidFormatTestSuite.ValidTest/0
+[       OK ] FloatValueValidation/ValidFormatTestSuite.ValidTest/0 (0 ms)
+[----------] 1 test from FloatValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"FloatValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 3.14"" end time: Dec 29 22:57 RTZ 2 (ceia)
+"FloatValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 3.14"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/80 Testing: FloatValueValidation/ValidFormatTestSuite.ValidTest/"key2 = -3.14"
+26/80 Test: FloatValueValidation/ValidFormatTestSuite.ValidTest/"key2 = -3.14"
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=FloatValueValidation/ValidFormatTestSuite.ValidTest/1" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"FloatValueValidation/ValidFormatTestSuite.ValidTest/"key2 = -3.14"" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FloatValueValidation/ValidFormatTestSuite.ValidTest/1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FloatValueValidation/ValidFormatTestSuite
+[ RUN      ] FloatValueValidation/ValidFormatTestSuite.ValidTest/1
+[       OK ] FloatValueValidation/ValidFormatTestSuite.ValidTest/1 (0 ms)
+[----------] 1 test from FloatValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"FloatValueValidation/ValidFormatTestSuite.ValidTest/"key2 = -3.14"" end time: Dec 29 22:57 RTZ 2 (ceia)
+"FloatValueValidation/ValidFormatTestSuite.ValidTest/"key2 = -3.14"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/80 Testing: FloatValueValidation/ValidFormatTestSuite.ValidTest/"key3 = +0.00001"
+27/80 Test: FloatValueValidation/ValidFormatTestSuite.ValidTest/"key3 = +0.00001"
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=FloatValueValidation/ValidFormatTestSuite.ValidTest/2" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"FloatValueValidation/ValidFormatTestSuite.ValidTest/"key3 = +0.00001"" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FloatValueValidation/ValidFormatTestSuite.ValidTest/2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FloatValueValidation/ValidFormatTestSuite
+[ RUN      ] FloatValueValidation/ValidFormatTestSuite.ValidTest/2
+[       OK ] FloatValueValidation/ValidFormatTestSuite.ValidTest/2 (0 ms)
+[----------] 1 test from FloatValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"FloatValueValidation/ValidFormatTestSuite.ValidTest/"key3 = +0.00001"" end time: Dec 29 22:57 RTZ 2 (ceia)
+"FloatValueValidation/ValidFormatTestSuite.ValidTest/"key3 = +0.00001"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/80 Testing: StringValueValidation/ValidFormatTestSuite.ValidTest/"key1 = \"Hello world\""
+28/80 Test: StringValueValidation/ValidFormatTestSuite.ValidTest/"key1 = \"Hello world\""
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=StringValueValidation/ValidFormatTestSuite.ValidTest/0" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key1 = \"Hello world\""" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StringValueValidation/ValidFormatTestSuite.ValidTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StringValueValidation/ValidFormatTestSuite
+[ RUN      ] StringValueValidation/ValidFormatTestSuite.ValidTest/0
+[       OK ] StringValueValidation/ValidFormatTestSuite.ValidTest/0 (0 ms)
+[----------] 1 test from StringValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key1 = \"Hello world\""" end time: Dec 29 22:57 RTZ 2 (ceia)
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key1 = \"Hello world\""" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/80 Testing: StringValueValidation/ValidFormatTestSuite.ValidTest/"key2 = \"1, 2, 3, 4, 5\""
+29/80 Test: StringValueValidation/ValidFormatTestSuite.ValidTest/"key2 = \"1, 2, 3, 4, 5\""
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=StringValueValidation/ValidFormatTestSuite.ValidTest/1" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key2 = \"1, 2, 3, 4, 5\""" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StringValueValidation/ValidFormatTestSuite.ValidTest/1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StringValueValidation/ValidFormatTestSuite
+[ RUN      ] StringValueValidation/ValidFormatTestSuite.ValidTest/1
+[       OK ] StringValueValidation/ValidFormatTestSuite.ValidTest/1 (0 ms)
+[----------] 1 test from StringValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key2 = \"1, 2, 3, 4, 5\""" end time: Dec 29 22:57 RTZ 2 (ceia)
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key2 = \"1, 2, 3, 4, 5\""" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/80 Testing: StringValueValidation/ValidFormatTestSuite.ValidTest/"key3 = \"3.14\""
+30/80 Test: StringValueValidation/ValidFormatTestSuite.ValidTest/"key3 = \"3.14\""
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=StringValueValidation/ValidFormatTestSuite.ValidTest/2" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key3 = \"3.14\""" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StringValueValidation/ValidFormatTestSuite.ValidTest/2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StringValueValidation/ValidFormatTestSuite
+[ RUN      ] StringValueValidation/ValidFormatTestSuite.ValidTest/2
+[       OK ] StringValueValidation/ValidFormatTestSuite.ValidTest/2 (0 ms)
+[----------] 1 test from StringValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key3 = \"3.14\""" end time: Dec 29 22:57 RTZ 2 (ceia)
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key3 = \"3.14\""" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/80 Testing: StringValueValidation/ValidFormatTestSuite.ValidTest/"key4 = \"1\t2\t3\""
+31/80 Test: StringValueValidation/ValidFormatTestSuite.ValidTest/"key4 = \"1\t2\t3\""
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=StringValueValidation/ValidFormatTestSuite.ValidTest/3" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key4 = \"1\t2\t3\""" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StringValueValidation/ValidFormatTestSuite.ValidTest/3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StringValueValidation/ValidFormatTestSuite
+[ RUN      ] StringValueValidation/ValidFormatTestSuite.ValidTest/3
+[       OK ] StringValueValidation/ValidFormatTestSuite.ValidTest/3 (0 ms)
+[----------] 1 test from StringValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key4 = \"1\t2\t3\""" end time: Dec 29 22:57 RTZ 2 (ceia)
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key4 = \"1\t2\t3\""" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/80 Testing: StringValueValidation/ValidFormatTestSuite.ValidTest/"key5 = \"[1,2,3,4,5]\""
+32/80 Test: StringValueValidation/ValidFormatTestSuite.ValidTest/"key5 = \"[1,2,3,4,5]\""
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=StringValueValidation/ValidFormatTestSuite.ValidTest/4" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key5 = \"[1,2,3,4,5]\""" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StringValueValidation/ValidFormatTestSuite.ValidTest/4
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StringValueValidation/ValidFormatTestSuite
+[ RUN      ] StringValueValidation/ValidFormatTestSuite.ValidTest/4
+[       OK ] StringValueValidation/ValidFormatTestSuite.ValidTest/4 (0 ms)
+[----------] 1 test from StringValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key5 = \"[1,2,3,4,5]\""" end time: Dec 29 22:57 RTZ 2 (ceia)
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key5 = \"[1,2,3,4,5]\""" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/80 Testing: BoolValueValidation/ValidFormatTestSuite.ValidTest/"key1 = true"
+33/80 Test: BoolValueValidation/ValidFormatTestSuite.ValidTest/"key1 = true"
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=BoolValueValidation/ValidFormatTestSuite.ValidTest/0" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"BoolValueValidation/ValidFormatTestSuite.ValidTest/"key1 = true"" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BoolValueValidation/ValidFormatTestSuite.ValidTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BoolValueValidation/ValidFormatTestSuite
+[ RUN      ] BoolValueValidation/ValidFormatTestSuite.ValidTest/0
+[       OK ] BoolValueValidation/ValidFormatTestSuite.ValidTest/0 (0 ms)
+[----------] 1 test from BoolValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"BoolValueValidation/ValidFormatTestSuite.ValidTest/"key1 = true"" end time: Dec 29 22:57 RTZ 2 (ceia)
+"BoolValueValidation/ValidFormatTestSuite.ValidTest/"key1 = true"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/80 Testing: BoolValueValidation/ValidFormatTestSuite.ValidTest/"key2 = false"
+34/80 Test: BoolValueValidation/ValidFormatTestSuite.ValidTest/"key2 = false"
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=BoolValueValidation/ValidFormatTestSuite.ValidTest/1" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"BoolValueValidation/ValidFormatTestSuite.ValidTest/"key2 = false"" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BoolValueValidation/ValidFormatTestSuite.ValidTest/1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BoolValueValidation/ValidFormatTestSuite
+[ RUN      ] BoolValueValidation/ValidFormatTestSuite.ValidTest/1
+[       OK ] BoolValueValidation/ValidFormatTestSuite.ValidTest/1 (0 ms)
+[----------] 1 test from BoolValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"BoolValueValidation/ValidFormatTestSuite.ValidTest/"key2 = false"" end time: Dec 29 22:57 RTZ 2 (ceia)
+"BoolValueValidation/ValidFormatTestSuite.ValidTest/"key2 = false"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/80 Testing: ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key1 = []"
+35/80 Test: ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key1 = []"
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=ArrayValueValidation/ValidFormatTestSuite.ValidTest/0" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key1 = []"" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArrayValueValidation/ValidFormatTestSuite.ValidTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayValueValidation/ValidFormatTestSuite
+[ RUN      ] ArrayValueValidation/ValidFormatTestSuite.ValidTest/0
+[       OK ] ArrayValueValidation/ValidFormatTestSuite.ValidTest/0 (0 ms)
+[----------] 1 test from ArrayValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key1 = []"" end time: Dec 29 22:57 RTZ 2 (ceia)
+"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key1 = []"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/80 Testing: ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key2 = [1,2,3,4,5]"
+36/80 Test: ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key2 = [1,2,3,4,5]"
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=ArrayValueValidation/ValidFormatTestSuite.ValidTest/1" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key2 = [1,2,3,4,5]"" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArrayValueValidation/ValidFormatTestSuite.ValidTest/1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayValueValidation/ValidFormatTestSuite
+[ RUN      ] ArrayValueValidation/ValidFormatTestSuite.ValidTest/1
+[       OK ] ArrayValueValidation/ValidFormatTestSuite.ValidTest/1 (0 ms)
+[----------] 1 test from ArrayValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key2 = [1,2,3,4,5]"" end time: Dec 29 22:57 RTZ 2 (ceia)
+"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key2 = [1,2,3,4,5]"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/80 Testing: ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key3 = [1, -3.14, true, \"ITMO\"]"
+37/80 Test: ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key3 = [1, -3.14, true, \"ITMO\"]"
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=ArrayValueValidation/ValidFormatTestSuite.ValidTest/2" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key3 = [1, -3.14, true, \"ITMO\"]"" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArrayValueValidation/ValidFormatTestSuite.ValidTest/2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayValueValidation/ValidFormatTestSuite
+[ RUN      ] ArrayValueValidation/ValidFormatTestSuite.ValidTest/2
+[       OK ] ArrayValueValidation/ValidFormatTestSuite.ValidTest/2 (0 ms)
+[----------] 1 test from ArrayValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key3 = [1, -3.14, true, \"ITMO\"]"" end time: Dec 29 22:57 RTZ 2 (ceia)
+"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key3 = [1, -3.14, true, \"ITMO\"]"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+38/80 Testing: ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key4 = [[1,2],[2,[3,4,5]]]"
+38/80 Test: ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key4 = [[1,2],[2,[3,4,5]]]"
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=ArrayValueValidation/ValidFormatTestSuite.ValidTest/3" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key4 = [[1,2],[2,[3,4,5]]]"" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArrayValueValidation/ValidFormatTestSuite.ValidTest/3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayValueValidation/ValidFormatTestSuite
+[ RUN      ] ArrayValueValidation/ValidFormatTestSuite.ValidTest/3
+[       OK ] ArrayValueValidation/ValidFormatTestSuite.ValidTest/3 (0 ms)
+[----------] 1 test from ArrayValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key4 = [[1,2],[2,[3,4,5]]]"" end time: Dec 29 22:57 RTZ 2 (ceia)
+"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key4 = [[1,2],[2,[3,4,5]]]"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+39/80 Testing: SectionValueValidation/ValidFormatTestSuite.ValidTest/"[section-1]"
+39/80 Test: SectionValueValidation/ValidFormatTestSuite.ValidTest/"[section-1]"
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=SectionValueValidation/ValidFormatTestSuite.ValidTest/0" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"SectionValueValidation/ValidFormatTestSuite.ValidTest/"[section-1]"" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = SectionValueValidation/ValidFormatTestSuite.ValidTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SectionValueValidation/ValidFormatTestSuite
+[ RUN      ] SectionValueValidation/ValidFormatTestSuite.ValidTest/0
+[       OK ] SectionValueValidation/ValidFormatTestSuite.ValidTest/0 (0 ms)
+[----------] 1 test from SectionValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"SectionValueValidation/ValidFormatTestSuite.ValidTest/"[section-1]"" end time: Dec 29 22:57 RTZ 2 (ceia)
+"SectionValueValidation/ValidFormatTestSuite.ValidTest/"[section-1]"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+40/80 Testing: SectionValueValidation/ValidFormatTestSuite.ValidTest/"[section-1.section-2]"
+40/80 Test: SectionValueValidation/ValidFormatTestSuite.ValidTest/"[section-1.section-2]"
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=SectionValueValidation/ValidFormatTestSuite.ValidTest/1" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"SectionValueValidation/ValidFormatTestSuite.ValidTest/"[section-1.section-2]"" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = SectionValueValidation/ValidFormatTestSuite.ValidTest/1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SectionValueValidation/ValidFormatTestSuite
+[ RUN      ] SectionValueValidation/ValidFormatTestSuite.ValidTest/1
+[       OK ] SectionValueValidation/ValidFormatTestSuite.ValidTest/1 (0 ms)
+[----------] 1 test from SectionValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"SectionValueValidation/ValidFormatTestSuite.ValidTest/"[section-1.section-2]"" end time: Dec 29 22:57 RTZ 2 (ceia)
+"SectionValueValidation/ValidFormatTestSuite.ValidTest/"[section-1.section-2]"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+41/80 Testing: SectionValueValidation/ValidFormatTestSuite.ValidTest/"[a.b.c.d]"
+41/80 Test: SectionValueValidation/ValidFormatTestSuite.ValidTest/"[a.b.c.d]"
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=SectionValueValidation/ValidFormatTestSuite.ValidTest/2" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"SectionValueValidation/ValidFormatTestSuite.ValidTest/"[a.b.c.d]"" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = SectionValueValidation/ValidFormatTestSuite.ValidTest/2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SectionValueValidation/ValidFormatTestSuite
+[ RUN      ] SectionValueValidation/ValidFormatTestSuite.ValidTest/2
+[       OK ] SectionValueValidation/ValidFormatTestSuite.ValidTest/2 (0 ms)
+[----------] 1 test from SectionValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"SectionValueValidation/ValidFormatTestSuite.ValidTest/"[a.b.c.d]"" end time: Dec 29 22:57 RTZ 2 (ceia)
+"SectionValueValidation/ValidFormatTestSuite.ValidTest/"[a.b.c.d]"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+42/80 Testing: CommentValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 1 # comment"
+42/80 Test: CommentValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 1 # comment"
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=CommentValueValidation/ValidFormatTestSuite.ValidTest/0" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"CommentValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 1 # comment"" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = CommentValueValidation/ValidFormatTestSuite.ValidTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CommentValueValidation/ValidFormatTestSuite
+[ RUN      ] CommentValueValidation/ValidFormatTestSuite.ValidTest/0
+[       OK ] CommentValueValidation/ValidFormatTestSuite.ValidTest/0 (0 ms)
+[----------] 1 test from CommentValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"CommentValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 1 # comment"" end time: Dec 29 22:57 RTZ 2 (ceia)
+"CommentValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 1 # comment"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+43/80 Testing: CommentValueValidation/ValidFormatTestSuite.ValidTest/"# some text"
+43/80 Test: CommentValueValidation/ValidFormatTestSuite.ValidTest/"# some text"
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=CommentValueValidation/ValidFormatTestSuite.ValidTest/1" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"CommentValueValidation/ValidFormatTestSuite.ValidTest/"# some text"" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = CommentValueValidation/ValidFormatTestSuite.ValidTest/1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CommentValueValidation/ValidFormatTestSuite
+[ RUN      ] CommentValueValidation/ValidFormatTestSuite.ValidTest/1
+[       OK ] CommentValueValidation/ValidFormatTestSuite.ValidTest/1 (0 ms)
+[----------] 1 test from CommentValueValidation/ValidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"CommentValueValidation/ValidFormatTestSuite.ValidTest/"# some text"" end time: Dec 29 22:57 RTZ 2 (ceia)
+"CommentValueValidation/ValidFormatTestSuite.ValidTest/"# some text"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+44/80 Testing: KeyValidation/InvalidFormatTestSuite.InValidTest/"!key = \"value\""
+44/80 Test: KeyValidation/InvalidFormatTestSuite.InValidTest/"!key = \"value\""
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=KeyValidation/InvalidFormatTestSuite.InValidTest/0" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"KeyValidation/InvalidFormatTestSuite.InValidTest/"!key = \"value\""" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = KeyValidation/InvalidFormatTestSuite.InValidTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from KeyValidation/InvalidFormatTestSuite
+[ RUN      ] KeyValidation/InvalidFormatTestSuite.InValidTest/0
+[       OK ] KeyValidation/InvalidFormatTestSuite.InValidTest/0 (0 ms)
+[----------] 1 test from KeyValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"KeyValidation/InvalidFormatTestSuite.InValidTest/"!key = \"value\""" end time: Dec 29 22:57 RTZ 2 (ceia)
+"KeyValidation/InvalidFormatTestSuite.InValidTest/"!key = \"value\""" time elapsed: 00:00:00
+----------------------------------------------------------
+
+45/80 Testing: KeyValidation/InvalidFormatTestSuite.InValidTest/"key = \n\"value\""
+45/80 Test: KeyValidation/InvalidFormatTestSuite.InValidTest/"key = \n\"value\""
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=KeyValidation/InvalidFormatTestSuite.InValidTest/1" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"KeyValidation/InvalidFormatTestSuite.InValidTest/"key = \n\"value\""" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = KeyValidation/InvalidFormatTestSuite.InValidTest/1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from KeyValidation/InvalidFormatTestSuite
+[ RUN      ] KeyValidation/InvalidFormatTestSuite.InValidTest/1
+[       OK ] KeyValidation/InvalidFormatTestSuite.InValidTest/1 (0 ms)
+[----------] 1 test from KeyValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"KeyValidation/InvalidFormatTestSuite.InValidTest/"key = \n\"value\""" end time: Dec 29 22:57 RTZ 2 (ceia)
+"KeyValidation/InvalidFormatTestSuite.InValidTest/"key = \n\"value\""" time elapsed: 00:00:00
+----------------------------------------------------------
+
+46/80 Testing: KeyValidation/InvalidFormatTestSuite.InValidTest/"      =  \"value\"   "
+46/80 Test: KeyValidation/InvalidFormatTestSuite.InValidTest/"      =  \"value\"   "
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=KeyValidation/InvalidFormatTestSuite.InValidTest/2" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"KeyValidation/InvalidFormatTestSuite.InValidTest/"      =  \"value\"   "" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = KeyValidation/InvalidFormatTestSuite.InValidTest/2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from KeyValidation/InvalidFormatTestSuite
+[ RUN      ] KeyValidation/InvalidFormatTestSuite.InValidTest/2
+[       OK ] KeyValidation/InvalidFormatTestSuite.InValidTest/2 (0 ms)
+[----------] 1 test from KeyValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"KeyValidation/InvalidFormatTestSuite.InValidTest/"      =  \"value\"   "" end time: Dec 29 22:57 RTZ 2 (ceia)
+"KeyValidation/InvalidFormatTestSuite.InValidTest/"      =  \"value\"   "" time elapsed: 00:00:00
+----------------------------------------------------------
+
+47/80 Testing: KeyValidation/InvalidFormatTestSuite.InValidTest/"=  \"value\""
+47/80 Test: KeyValidation/InvalidFormatTestSuite.InValidTest/"=  \"value\""
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=KeyValidation/InvalidFormatTestSuite.InValidTest/3" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"KeyValidation/InvalidFormatTestSuite.InValidTest/"=  \"value\""" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = KeyValidation/InvalidFormatTestSuite.InValidTest/3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from KeyValidation/InvalidFormatTestSuite
+[ RUN      ] KeyValidation/InvalidFormatTestSuite.InValidTest/3
+[       OK ] KeyValidation/InvalidFormatTestSuite.InValidTest/3 (0 ms)
+[----------] 1 test from KeyValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"KeyValidation/InvalidFormatTestSuite.InValidTest/"=  \"value\""" end time: Dec 29 22:57 RTZ 2 (ceia)
+"KeyValidation/InvalidFormatTestSuite.InValidTest/"=  \"value\""" time elapsed: 00:00:00
+----------------------------------------------------------
+
+48/80 Testing: KeyValidation/InvalidFormatTestSuite.InValidTest/" key**123 =  \"value\""
+48/80 Test: KeyValidation/InvalidFormatTestSuite.InValidTest/" key**123 =  \"value\""
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=KeyValidation/InvalidFormatTestSuite.InValidTest/4" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"KeyValidation/InvalidFormatTestSuite.InValidTest/" key**123 =  \"value\""" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = KeyValidation/InvalidFormatTestSuite.InValidTest/4
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from KeyValidation/InvalidFormatTestSuite
+[ RUN      ] KeyValidation/InvalidFormatTestSuite.InValidTest/4
+[       OK ] KeyValidation/InvalidFormatTestSuite.InValidTest/4 (0 ms)
+[----------] 1 test from KeyValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"KeyValidation/InvalidFormatTestSuite.InValidTest/" key**123 =  \"value\""" end time: Dec 29 22:57 RTZ 2 (ceia)
+"KeyValidation/InvalidFormatTestSuite.InValidTest/" key**123 =  \"value\""" time elapsed: 00:00:00
+----------------------------------------------------------
+
+49/80 Testing: KeyValidation/InvalidFormatTestSuite.InValidTest/" . =  \"value\""
+49/80 Test: KeyValidation/InvalidFormatTestSuite.InValidTest/" . =  \"value\""
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=KeyValidation/InvalidFormatTestSuite.InValidTest/5" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"KeyValidation/InvalidFormatTestSuite.InValidTest/" . =  \"value\""" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = KeyValidation/InvalidFormatTestSuite.InValidTest/5
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from KeyValidation/InvalidFormatTestSuite
+[ RUN      ] KeyValidation/InvalidFormatTestSuite.InValidTest/5
+[       OK ] KeyValidation/InvalidFormatTestSuite.InValidTest/5 (0 ms)
+[----------] 1 test from KeyValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"KeyValidation/InvalidFormatTestSuite.InValidTest/" . =  \"value\""" end time: Dec 29 22:57 RTZ 2 (ceia)
+"KeyValidation/InvalidFormatTestSuite.InValidTest/" . =  \"value\""" time elapsed: 00:00:00
+----------------------------------------------------------
+
+50/80 Testing: KeyValidation/InvalidFormatTestSuite.InValidTest/" .key2.key3 =  \"value\""
+50/80 Test: KeyValidation/InvalidFormatTestSuite.InValidTest/" .key2.key3 =  \"value\""
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=KeyValidation/InvalidFormatTestSuite.InValidTest/6" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"KeyValidation/InvalidFormatTestSuite.InValidTest/" .key2.key3 =  \"value\""" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = KeyValidation/InvalidFormatTestSuite.InValidTest/6
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from KeyValidation/InvalidFormatTestSuite
+[ RUN      ] KeyValidation/InvalidFormatTestSuite.InValidTest/6
+[       OK ] KeyValidation/InvalidFormatTestSuite.InValidTest/6 (0 ms)
+[----------] 1 test from KeyValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.27 sec
+----------------------------------------------------------
+Test Passed.
+"KeyValidation/InvalidFormatTestSuite.InValidTest/" .key2.key3 =  \"value\""" end time: Dec 29 22:57 RTZ 2 (ceia)
+"KeyValidation/InvalidFormatTestSuite.InValidTest/" .key2.key3 =  \"value\""" time elapsed: 00:00:00
+----------------------------------------------------------
+
+51/80 Testing: KeyValidation/InvalidFormatTestSuite.InValidTest/" key1. =  \"value\""
+51/80 Test: KeyValidation/InvalidFormatTestSuite.InValidTest/" key1. =  \"value\""
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=KeyValidation/InvalidFormatTestSuite.InValidTest/7" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"KeyValidation/InvalidFormatTestSuite.InValidTest/" key1. =  \"value\""" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = KeyValidation/InvalidFormatTestSuite.InValidTest/7
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from KeyValidation/InvalidFormatTestSuite
+[ RUN      ] KeyValidation/InvalidFormatTestSuite.InValidTest/7
+[       OK ] KeyValidation/InvalidFormatTestSuite.InValidTest/7 (0 ms)
+[----------] 1 test from KeyValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"KeyValidation/InvalidFormatTestSuite.InValidTest/" key1. =  \"value\""" end time: Dec 29 22:57 RTZ 2 (ceia)
+"KeyValidation/InvalidFormatTestSuite.InValidTest/" key1. =  \"value\""" time elapsed: 00:00:00
+----------------------------------------------------------
+
+52/80 Testing: ValueValidation/InvalidFormatTestSuite.InValidTest/"key = "
+52/80 Test: ValueValidation/InvalidFormatTestSuite.InValidTest/"key = "
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=ValueValidation/InvalidFormatTestSuite.InValidTest/0" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"ValueValidation/InvalidFormatTestSuite.InValidTest/"key = "" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ValueValidation/InvalidFormatTestSuite.InValidTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ValueValidation/InvalidFormatTestSuite
+[ RUN      ] ValueValidation/InvalidFormatTestSuite.InValidTest/0
+[       OK ] ValueValidation/InvalidFormatTestSuite.InValidTest/0 (0 ms)
+[----------] 1 test from ValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"ValueValidation/InvalidFormatTestSuite.InValidTest/"key = "" end time: Dec 29 22:57 RTZ 2 (ceia)
+"ValueValidation/InvalidFormatTestSuite.InValidTest/"key = "" time elapsed: 00:00:00
+----------------------------------------------------------
+
+53/80 Testing: ValueValidation/InvalidFormatTestSuite.InValidTest/"key = abcd"
+53/80 Test: ValueValidation/InvalidFormatTestSuite.InValidTest/"key = abcd"
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=ValueValidation/InvalidFormatTestSuite.InValidTest/1" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"ValueValidation/InvalidFormatTestSuite.InValidTest/"key = abcd"" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ValueValidation/InvalidFormatTestSuite.InValidTest/1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ValueValidation/InvalidFormatTestSuite
+[ RUN      ] ValueValidation/InvalidFormatTestSuite.InValidTest/1
+[       OK ] ValueValidation/InvalidFormatTestSuite.InValidTest/1 (0 ms)
+[----------] 1 test from ValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Passed.
+"ValueValidation/InvalidFormatTestSuite.InValidTest/"key = abcd"" end time: Dec 29 22:57 RTZ 2 (ceia)
+"ValueValidation/InvalidFormatTestSuite.InValidTest/"key = abcd"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+54/80 Testing: IntValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = 2+"
+54/80 Test: IntValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = 2+"
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=IntValueValidation/InvalidFormatTestSuite.InValidTest/0" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = 2+"" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = IntValueValidation/InvalidFormatTestSuite.InValidTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IntValueValidation/InvalidFormatTestSuite
+[ RUN      ] IntValueValidation/InvalidFormatTestSuite.InValidTest/0
+[       OK ] IntValueValidation/InvalidFormatTestSuite.InValidTest/0 (0 ms)
+[----------] 1 test from IntValueValidation/InvalidFormatTestSuite (21 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (21 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.15 sec
+----------------------------------------------------------
+Test Passed.
+"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = 2+"" end time: Dec 29 22:57 RTZ 2 (ceia)
+"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = 2+"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+55/80 Testing: IntValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = 2-2"
+55/80 Test: IntValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = 2-2"
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=IntValueValidation/InvalidFormatTestSuite.InValidTest/1" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = 2-2"" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = IntValueValidation/InvalidFormatTestSuite.InValidTest/1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IntValueValidation/InvalidFormatTestSuite
+[ RUN      ] IntValueValidation/InvalidFormatTestSuite.InValidTest/1
+[       OK ] IntValueValidation/InvalidFormatTestSuite.InValidTest/1 (0 ms)
+[----------] 1 test from IntValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.16 sec
+----------------------------------------------------------
+Test Passed.
+"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = 2-2"" end time: Dec 29 22:57 RTZ 2 (ceia)
+"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = 2-2"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+56/80 Testing: IntValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = 4+8"
+56/80 Test: IntValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = 4+8"
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=IntValueValidation/InvalidFormatTestSuite.InValidTest/2" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = 4+8"" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = IntValueValidation/InvalidFormatTestSuite.InValidTest/2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IntValueValidation/InvalidFormatTestSuite
+[ RUN      ] IntValueValidation/InvalidFormatTestSuite.InValidTest/2
+[       OK ] IntValueValidation/InvalidFormatTestSuite.InValidTest/2 (0 ms)
+[----------] 1 test from IntValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = 4+8"" end time: Dec 29 22:57 RTZ 2 (ceia)
+"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = 4+8"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+57/80 Testing: IntValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = +"
+57/80 Test: IntValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = +"
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=IntValueValidation/InvalidFormatTestSuite.InValidTest/3" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = +"" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = IntValueValidation/InvalidFormatTestSuite.InValidTest/3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IntValueValidation/InvalidFormatTestSuite
+[ RUN      ] IntValueValidation/InvalidFormatTestSuite.InValidTest/3
+[       OK ] IntValueValidation/InvalidFormatTestSuite.InValidTest/3 (0 ms)
+[----------] 1 test from IntValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = +"" end time: Dec 29 22:57 RTZ 2 (ceia)
+"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = +"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+58/80 Testing: FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = .0"
+58/80 Test: FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = .0"
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=FloatValueValidation/InvalidFormatTestSuite.InValidTest/0" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = .0"" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FloatValueValidation/InvalidFormatTestSuite.InValidTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FloatValueValidation/InvalidFormatTestSuite
+[ RUN      ] FloatValueValidation/InvalidFormatTestSuite.InValidTest/0
+[       OK ] FloatValueValidation/InvalidFormatTestSuite.InValidTest/0 (0 ms)
+[----------] 1 test from FloatValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = .0"" end time: Dec 29 22:57 RTZ 2 (ceia)
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = .0"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+59/80 Testing: FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = 1."
+59/80 Test: FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = 1."
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=FloatValueValidation/InvalidFormatTestSuite.InValidTest/1" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = 1."" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FloatValueValidation/InvalidFormatTestSuite.InValidTest/1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FloatValueValidation/InvalidFormatTestSuite
+[ RUN      ] FloatValueValidation/InvalidFormatTestSuite.InValidTest/1
+[       OK ] FloatValueValidation/InvalidFormatTestSuite.InValidTest/1 (0 ms)
+[----------] 1 test from FloatValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = 1."" end time: Dec 29 22:57 RTZ 2 (ceia)
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = 1."" time elapsed: 00:00:00
+----------------------------------------------------------
+
+60/80 Testing: FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = +.1"
+60/80 Test: FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = +.1"
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=FloatValueValidation/InvalidFormatTestSuite.InValidTest/2" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = +.1"" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FloatValueValidation/InvalidFormatTestSuite.InValidTest/2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FloatValueValidation/InvalidFormatTestSuite
+[ RUN      ] FloatValueValidation/InvalidFormatTestSuite.InValidTest/2
+[       OK ] FloatValueValidation/InvalidFormatTestSuite.InValidTest/2 (0 ms)
+[----------] 1 test from FloatValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = +.1"" end time: Dec 29 22:57 RTZ 2 (ceia)
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = +.1"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+61/80 Testing: FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = +."
+61/80 Test: FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = +."
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=FloatValueValidation/InvalidFormatTestSuite.InValidTest/3" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = +."" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FloatValueValidation/InvalidFormatTestSuite.InValidTest/3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FloatValueValidation/InvalidFormatTestSuite
+[ RUN      ] FloatValueValidation/InvalidFormatTestSuite.InValidTest/3
+[       OK ] FloatValueValidation/InvalidFormatTestSuite.InValidTest/3 (0 ms)
+[----------] 1 test from FloatValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = +."" end time: Dec 29 22:57 RTZ 2 (ceia)
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = +."" time elapsed: 00:00:00
+----------------------------------------------------------
+
+62/80 Testing: FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = ."
+62/80 Test: FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = ."
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=FloatValueValidation/InvalidFormatTestSuite.InValidTest/4" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = ."" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FloatValueValidation/InvalidFormatTestSuite.InValidTest/4
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FloatValueValidation/InvalidFormatTestSuite
+[ RUN      ] FloatValueValidation/InvalidFormatTestSuite.InValidTest/4
+[       OK ] FloatValueValidation/InvalidFormatTestSuite.InValidTest/4 (0 ms)
+[----------] 1 test from FloatValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = ."" end time: Dec 29 22:57 RTZ 2 (ceia)
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = ."" time elapsed: 00:00:00
+----------------------------------------------------------
+
+63/80 Testing: StringValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = \"Hello world"
+63/80 Test: StringValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = \"Hello world"
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=StringValueValidation/InvalidFormatTestSuite.InValidTest/0" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"StringValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = \"Hello world"" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StringValueValidation/InvalidFormatTestSuite.InValidTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StringValueValidation/InvalidFormatTestSuite
+[ RUN      ] StringValueValidation/InvalidFormatTestSuite.InValidTest/0
+[       OK ] StringValueValidation/InvalidFormatTestSuite.InValidTest/0 (0 ms)
+[----------] 1 test from StringValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"StringValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = \"Hello world"" end time: Dec 29 22:57 RTZ 2 (ceia)
+"StringValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = \"Hello world"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+64/80 Testing: StringValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = \"ITMO\"University\""
+64/80 Test: StringValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = \"ITMO\"University\""
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=StringValueValidation/InvalidFormatTestSuite.InValidTest/1" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"StringValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = \"ITMO\"University\""" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StringValueValidation/InvalidFormatTestSuite.InValidTest/1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StringValueValidation/InvalidFormatTestSuite
+[ RUN      ] StringValueValidation/InvalidFormatTestSuite.InValidTest/1
+[       OK ] StringValueValidation/InvalidFormatTestSuite.InValidTest/1 (0 ms)
+[----------] 1 test from StringValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"StringValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = \"ITMO\"University\""" end time: Dec 29 22:57 RTZ 2 (ceia)
+"StringValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = \"ITMO\"University\""" time elapsed: 00:00:00
+----------------------------------------------------------
+
+65/80 Testing: StringValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = \"Bjarne\" \"stroustrup\""
+65/80 Test: StringValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = \"Bjarne\" \"stroustrup\""
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=StringValueValidation/InvalidFormatTestSuite.InValidTest/2" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"StringValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = \"Bjarne\" \"stroustrup\""" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StringValueValidation/InvalidFormatTestSuite.InValidTest/2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StringValueValidation/InvalidFormatTestSuite
+[ RUN      ] StringValueValidation/InvalidFormatTestSuite.InValidTest/2
+[       OK ] StringValueValidation/InvalidFormatTestSuite.InValidTest/2 (0 ms)
+[----------] 1 test from StringValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"StringValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = \"Bjarne\" \"stroustrup\""" end time: Dec 29 22:57 RTZ 2 (ceia)
+"StringValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = \"Bjarne\" \"stroustrup\""" time elapsed: 00:00:00
+----------------------------------------------------------
+
+66/80 Testing: BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = tru"
+66/80 Test: BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = tru"
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=BoolValueValidation/InvalidFormatTestSuite.InValidTest/0" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = tru"" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BoolValueValidation/InvalidFormatTestSuite.InValidTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BoolValueValidation/InvalidFormatTestSuite
+[ RUN      ] BoolValueValidation/InvalidFormatTestSuite.InValidTest/0
+[       OK ] BoolValueValidation/InvalidFormatTestSuite.InValidTest/0 (0 ms)
+[----------] 1 test from BoolValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = tru"" end time: Dec 29 22:57 RTZ 2 (ceia)
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = tru"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+67/80 Testing: BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = alse"
+67/80 Test: BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = alse"
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=BoolValueValidation/InvalidFormatTestSuite.InValidTest/1" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = alse"" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BoolValueValidation/InvalidFormatTestSuite.InValidTest/1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BoolValueValidation/InvalidFormatTestSuite
+[ RUN      ] BoolValueValidation/InvalidFormatTestSuite.InValidTest/1
+[       OK ] BoolValueValidation/InvalidFormatTestSuite.InValidTest/1 (0 ms)
+[----------] 1 test from BoolValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = alse"" end time: Dec 29 22:57 RTZ 2 (ceia)
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = alse"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+68/80 Testing: BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = true true"
+68/80 Test: BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = true true"
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=BoolValueValidation/InvalidFormatTestSuite.InValidTest/2" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = true true"" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BoolValueValidation/InvalidFormatTestSuite.InValidTest/2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BoolValueValidation/InvalidFormatTestSuite
+[ RUN      ] BoolValueValidation/InvalidFormatTestSuite.InValidTest/2
+[       OK ] BoolValueValidation/InvalidFormatTestSuite.InValidTest/2 (0 ms)
+[----------] 1 test from BoolValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = true true"" end time: Dec 29 22:57 RTZ 2 (ceia)
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = true true"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+69/80 Testing: BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = fal se"
+69/80 Test: BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = fal se"
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=BoolValueValidation/InvalidFormatTestSuite.InValidTest/3" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = fal se"" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BoolValueValidation/InvalidFormatTestSuite.InValidTest/3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BoolValueValidation/InvalidFormatTestSuite
+[ RUN      ] BoolValueValidation/InvalidFormatTestSuite.InValidTest/3
+[       OK ] BoolValueValidation/InvalidFormatTestSuite.InValidTest/3 (0 ms)
+[----------] 1 test from BoolValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = fal se"" end time: Dec 29 22:57 RTZ 2 (ceia)
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = fal se"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+70/80 Testing: BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = truefalse"
+70/80 Test: BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = truefalse"
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=BoolValueValidation/InvalidFormatTestSuite.InValidTest/4" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = truefalse"" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BoolValueValidation/InvalidFormatTestSuite.InValidTest/4
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BoolValueValidation/InvalidFormatTestSuite
+[ RUN      ] BoolValueValidation/InvalidFormatTestSuite.InValidTest/4
+[       OK ] BoolValueValidation/InvalidFormatTestSuite.InValidTest/4 (0 ms)
+[----------] 1 test from BoolValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Passed.
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = truefalse"" end time: Dec 29 22:57 RTZ 2 (ceia)
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = truefalse"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+71/80 Testing: ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = ["
+71/80 Test: ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = ["
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=ArrayValueValidation/InvalidFormatTestSuite.InValidTest/0" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = ["" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArrayValueValidation/InvalidFormatTestSuite.InValidTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayValueValidation/InvalidFormatTestSuite
+[ RUN      ] ArrayValueValidation/InvalidFormatTestSuite.InValidTest/0
+[       OK ] ArrayValueValidation/InvalidFormatTestSuite.InValidTest/0 (0 ms)
+[----------] 1 test from ArrayValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = ["" end time: Dec 29 22:57 RTZ 2 (ceia)
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = ["" time elapsed: 00:00:00
+----------------------------------------------------------
+
+72/80 Testing: ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = ]"
+72/80 Test: ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = ]"
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=ArrayValueValidation/InvalidFormatTestSuite.InValidTest/1" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = ]"" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArrayValueValidation/InvalidFormatTestSuite.InValidTest/1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayValueValidation/InvalidFormatTestSuite
+[ RUN      ] ArrayValueValidation/InvalidFormatTestSuite.InValidTest/1
+[       OK ] ArrayValueValidation/InvalidFormatTestSuite.InValidTest/1 (0 ms)
+[----------] 1 test from ArrayValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = ]"" end time: Dec 29 22:57 RTZ 2 (ceia)
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = ]"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+73/80 Testing: ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = [1;2;3]"
+73/80 Test: ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = [1;2;3]"
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=ArrayValueValidation/InvalidFormatTestSuite.InValidTest/2" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = [1;2;3]"" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArrayValueValidation/InvalidFormatTestSuite.InValidTest/2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayValueValidation/InvalidFormatTestSuite
+[ RUN      ] ArrayValueValidation/InvalidFormatTestSuite.InValidTest/2
+[       OK ] ArrayValueValidation/InvalidFormatTestSuite.InValidTest/2 (0 ms)
+[----------] 1 test from ArrayValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = [1;2;3]"" end time: Dec 29 22:57 RTZ 2 (ceia)
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = [1;2;3]"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+74/80 Testing: ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = [1,2,3,4"
+74/80 Test: ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = [1,2,3,4"
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=ArrayValueValidation/InvalidFormatTestSuite.InValidTest/3" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = [1,2,3,4"" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArrayValueValidation/InvalidFormatTestSuite.InValidTest/3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayValueValidation/InvalidFormatTestSuite
+[ RUN      ] ArrayValueValidation/InvalidFormatTestSuite.InValidTest/3
+[       OK ] ArrayValueValidation/InvalidFormatTestSuite.InValidTest/3 (0 ms)
+[----------] 1 test from ArrayValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = [1,2,3,4"" end time: Dec 29 22:57 RTZ 2 (ceia)
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = [1,2,3,4"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+75/80 Testing: ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = [[1,2],[2,[3,4,5]"
+75/80 Test: ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = [[1,2],[2,[3,4,5]"
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=ArrayValueValidation/InvalidFormatTestSuite.InValidTest/4" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = [[1,2],[2,[3,4,5]"" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArrayValueValidation/InvalidFormatTestSuite.InValidTest/4
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayValueValidation/InvalidFormatTestSuite
+[ RUN      ] ArrayValueValidation/InvalidFormatTestSuite.InValidTest/4
+[       OK ] ArrayValueValidation/InvalidFormatTestSuite.InValidTest/4 (0 ms)
+[----------] 1 test from ArrayValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = [[1,2],[2,[3,4,5]"" end time: Dec 29 22:57 RTZ 2 (ceia)
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = [[1,2],[2,[3,4,5]"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+76/80 Testing: SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[]"
+76/80 Test: SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[]"
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=SectionValueValidation/InvalidFormatTestSuite.InValidTest/0" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[]"" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = SectionValueValidation/InvalidFormatTestSuite.InValidTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SectionValueValidation/InvalidFormatTestSuite
+[ RUN      ] SectionValueValidation/InvalidFormatTestSuite.InValidTest/0
+[       OK ] SectionValueValidation/InvalidFormatTestSuite.InValidTest/0 (0 ms)
+[----------] 1 test from SectionValueValidation/InvalidFormatTestSuite (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[]"" end time: Dec 29 22:57 RTZ 2 (ceia)
+"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[]"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+77/80 Testing: SectionValueValidation/InvalidFormatTestSuite.InValidTest/"{section-1}"
+77/80 Test: SectionValueValidation/InvalidFormatTestSuite.InValidTest/"{section-1}"
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=SectionValueValidation/InvalidFormatTestSuite.InValidTest/1" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"{section-1}"" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = SectionValueValidation/InvalidFormatTestSuite.InValidTest/1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SectionValueValidation/InvalidFormatTestSuite
+[ RUN      ] SectionValueValidation/InvalidFormatTestSuite.InValidTest/1
+[       OK ] SectionValueValidation/InvalidFormatTestSuite.InValidTest/1 (0 ms)
+[----------] 1 test from SectionValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"{section-1}"" end time: Dec 29 22:57 RTZ 2 (ceia)
+"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"{section-1}"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+78/80 Testing: SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[section-1.]"
+78/80 Test: SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[section-1.]"
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=SectionValueValidation/InvalidFormatTestSuite.InValidTest/2" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[section-1.]"" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = SectionValueValidation/InvalidFormatTestSuite.InValidTest/2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SectionValueValidation/InvalidFormatTestSuite
+[ RUN      ] SectionValueValidation/InvalidFormatTestSuite.InValidTest/2
+[       OK ] SectionValueValidation/InvalidFormatTestSuite.InValidTest/2 (0 ms)
+[----------] 1 test from SectionValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[section-1.]"" end time: Dec 29 22:57 RTZ 2 (ceia)
+"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[section-1.]"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+79/80 Testing: SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[.section-1]"
+79/80 Test: SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[.section-1]"
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=SectionValueValidation/InvalidFormatTestSuite.InValidTest/3" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[.section-1]"" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = SectionValueValidation/InvalidFormatTestSuite.InValidTest/3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SectionValueValidation/InvalidFormatTestSuite
+[ RUN      ] SectionValueValidation/InvalidFormatTestSuite.InValidTest/3
+[       OK ] SectionValueValidation/InvalidFormatTestSuite.InValidTest/3 (0 ms)
+[----------] 1 test from SectionValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[.section-1]"" end time: Dec 29 22:57 RTZ 2 (ceia)
+"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[.section-1]"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+80/80 Testing: CommentValueValidation/InvalidFormatTestSuite.InValidTest/"# comment \n newline comment"
+80/80 Test: CommentValueValidation/InvalidFormatTestSuite.InValidTest/"# comment \n newline comment"
+Command: "C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests/parser_tests.exe" "--gtest_filter=CommentValueValidation/InvalidFormatTestSuite.InValidTest/0" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/tests
+"CommentValueValidation/InvalidFormatTestSuite.InValidTest/"# comment \n newline comment"" start time: Dec 29 22:57 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = CommentValueValidation/InvalidFormatTestSuite.InValidTest/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CommentValueValidation/InvalidFormatTestSuite
+[ RUN      ] CommentValueValidation/InvalidFormatTestSuite.InValidTest/0
+[       OK ] CommentValueValidation/InvalidFormatTestSuite.InValidTest/0 (0 ms)
+[----------] 1 test from CommentValueValidation/InvalidFormatTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"CommentValueValidation/InvalidFormatTestSuite.InValidTest/"# comment \n newline comment"" end time: Dec 29 22:57 RTZ 2 (ceia)
+"CommentValueValidation/InvalidFormatTestSuite.InValidTest/"# comment \n newline comment"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 29 22:57 RTZ 2 (ceia)

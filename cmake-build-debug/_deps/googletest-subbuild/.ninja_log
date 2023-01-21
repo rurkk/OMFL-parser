@@ -1,0 +1,21 @@
+# ninja log v5
+1	165	6913673319005744	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	93782d1332dabfb7
+1	165	6913673319005744	C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	93782d1332dabfb7
+166	13269	6913673450057376	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	dce2885bbf45904e
+166	13269	6913673450057376	C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	dce2885bbf45904e
+13269	13487	0	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	1028cd4408f2ed61
+13269	13487	0	C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	1028cd4408f2ed61
+13488	13569	6913673453060584	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	a93d160ed0eec16f
+13488	13569	6913673453060584	C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	a93d160ed0eec16f
+13569	13640	6913673453767411	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	fd0414e153b14330
+13569	13640	6913673453767411	C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	fd0414e153b14330
+13640	13705	6913673454407032	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	60983abd7b277faf
+13640	13705	6913673454407032	C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	60983abd7b277faf
+13705	13773	6913673455102836	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	a15b48ceb0710f80
+13705	13773	6913673455102836	C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	a15b48ceb0710f80
+13773	13878	6913673456018845	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	f71696c8efddde57
+13773	13878	6913673456018845	C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	f71696c8efddde57
+13878	14001	6913673457388199	CMakeFiles/googletest-populate-complete	7d9b8ccd8d99f477
+13878	14001	6913673457388199	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	7d9b8ccd8d99f477
+13878	14001	6913673457388199	C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	7d9b8ccd8d99f477
+13878	14001	6913673457388199	C:/Users/raulm/labwork-6-rurkk/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	7d9b8ccd8d99f477
